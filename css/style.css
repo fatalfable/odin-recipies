@@ -1,0 +1,29 @@
+*{
+    background-color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p{
+    font-size: 18px;
+}
+h1{
+    background-color: blue;
+    font-size: 35px;
+    color: white;
+    text-align: center;
+}
+
+h2{
+    color: white;
+    background-color: green;
+
+}
+
+h3{
+    color: pink;
+}
+li{
+
+    color: red;
+    font-size: 20px;
+}
